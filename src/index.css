@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+header{
+  min-height: 100vh;
+  background-image: url(https://www.touristsecrets.com/wp-content/uploads/portal_files/styles/1280x840/public/touristsecrets_site_posts/inline-images/2021-02/d0eca402a0e04dfcf24b78c41de5404f.jpg);
+  background-size: cover;
+}
